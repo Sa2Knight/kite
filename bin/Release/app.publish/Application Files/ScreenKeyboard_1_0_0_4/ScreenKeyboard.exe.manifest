@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<asmv1:assembly xsi:schemaLocation="urn:schemas-microsoft-com:asm.v1 assembly.adaptive.xsd" manifestVersion="1.0" xmlns:asmv3="urn:schemas-microsoft-com:asm.v3" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#" xmlns="urn:schemas-microsoft-com:asm.v2" xmlns:asmv1="urn:schemas-microsoft-com:asm.v1" xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:co.v1="urn:schemas-microsoft-com:clickonce.v1">
+  <asmv1:assemblyIdentity name="ScreenKeyboard.exe" version="1.0.0.4" publicKeyToken="d0f445be825c5a8a" language="neutral" processorArchitecture="msil" type="win32" />
+  <application />
+  <entryPoint>
+    <assemblyIdentity name="ScreenKeyboard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+    <commandLine file="ScreenKeyboard.exe" parameters="" />
+  </entryPoint>
+  <trustInfo>
+    <security>
+      <applicationRequestMinimum>
+        <PermissionSet Unrestricted="true" ID="Custom" SameSite="site" />
+        <defaultAssemblyRequest permissionSetReference="Custom" />
+      </applicationRequestMinimum>
+      <requestedPrivileges xmlns="urn:schemas-microsoft-com:asm.v3">
+        <!--
+          UAC マニフェスト オプション
+          Windows のユーザー アカウント制御のレベルを変更するには、
+          requestedExecutionLevel ノードを以下のいずれかで置換します。
+
+        <requestedExecutionLevel  level="asInvoker" uiAccess="false" />
+        <requestedExecutionLevel  level="requireAdministrator" uiAccess="false" />
+        <requestedExecutionLevel  level="highestAvailable" uiAccess="false" />
+
+         下位互換性を保つためにファイルおよびレジストリの仮想化を使用する場合、
+         requestedExecutionLevel ノードを削除します。
+    -->
+        <requestedExecutionLevel level="asInvoker" uiAccess="false" />
+      </requestedPrivileges>
+    </security>
+  </trustInfo>
+  <dependency>
+    <dependentOS>
+      <osVersionInfo>
+        <os majorVersion="5" minorVersion="1" buildNumber="2600" servicePackMajor="0" />
+      </osVersionInfo>
+    </dependentOS>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="Microsoft.Windows.CommonLanguageRuntime" version="2.0.50727.0" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="System.Core" version="3.5.0.0" publicKeyToken="b77a5c561934e089" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="preRequisite" allowDelayedBinding="true">
+      <assemblyIdentity name="WindowsBase" version="3.0.0.0" publicKeyToken="31bf3856ad364e35" language="neutral" processorArchitecture="msil" />
+    </dependentAssembly>
+  </dependency>
+  <dependency>
+    <dependentAssembly dependencyType="install" allowDelayedBinding="true" codebase="ScreenKeyboard.exe" size="155136">
+      <assemblyIdentity name="ScreenKeyboard" version="1.0.0.0" language="neutral" processorArchitecture="msil" />
+      <hash>
+        <dsig:Transforms>
+          <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+        </dsig:Transforms>
+        <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+        <dsig:DigestValue>4nc4/EoOG71x5T21nhxhhJr/9oQ=</dsig:DigestValue>
+      </hash>
+    </dependentAssembly>
+  </dependency>
+  <file name="ScreenKeyboard.exe.config" size="2189">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>rtMqTPfPu2ECDE+j8i5XMlrSQJY=</dsig:DigestValue>
+    </hash>
+  </file>
+  <file name="メイン\メモ.txt" size="13135">
+    <hash>
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" />
+      <dsig:DigestValue>OYRVwVpp/5SIlxdPcfH8IBelk0k=</dsig:DigestValue>
+    </hash>
+  </file>
+<publisherIdentity name="CN=J-MIYAGI-TH\h20_sasaki" issuerKeyHash="9762cb16e087bb0519eae245e4e1dcac4d4db13e" /><Signature Id="StrongNameSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>uw3eS+WMWyijacx8HV2n98OuVrY=</DigestValue></Reference></SignedInfo><SignatureValue>cRVCuhxYTHv+FeJS6auMPB5afWuiKlosJSlPWDz6PEMx1MF/HxEDQQywm3mRpDlKlkrpirBY6U+2V4drton+tYFNRwv7XgDubtbtyjQEPUX9qmpAngS6zuaGhzc4pUvV2LYeLKHq7xVRD0mvuiCqrJpDKD831lO/1IJ1yuaMWTQ=</SignatureValue><KeyInfo Id="StrongNameKeyInfo"><KeyValue><RSAKeyValue><Modulus>vE9y3kOSR6ddCSc7aR7fkoUGinbWRHWQlIG8b4a8hXlL8E/Sj4ITHd364VXcrYrXHWIHlHY5JB2FI1MvgtQ4Qo64o04kiDXafO4a1DGmiKo9fEkZbIPBMq0vh/w9/KOZp/UXJTlwcgjxhJNTBk/iMOeS9pdtVYW+Sj/u2DWDwHM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><msrel:RelData xmlns:msrel="http://schemas.microsoft.com/windows/rel/2005/reldata"><r:license xmlns:r="urn:mpeg:mpeg21:2003:01-REL-R-NS" xmlns:as="http://schemas.microsoft.com/windows/pki/2005/Authenticode"><r:grant><as:ManifestInformation Hash="b656aec3f7a75d1d7ccc69a3285b8ce54bde0dbb" Description="" Url=""><as:assemblyIdentity name="ScreenKeyboard.exe" version="1.0.0.4" publicKeyToken="d0f445be825c5a8a" language="neutral" processorArchitecture="msil" type="win32" /></as:ManifestInformation><as:SignedBy /><as:AuthenticodePublisher><as:X509SubjectName>CN=J-MIYAGI-TH\h20_sasaki</as:X509SubjectName></as:AuthenticodePublisher></r:grant><r:issuer><Signature Id="AuthenticodeSignature" xmlns="http://www.w3.org/2000/09/xmldsig#"><SignedInfo><CanonicalizationMethod Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /><SignatureMethod Algorithm="http://www.w3.org/2000/09/xmldsig#rsa-sha1" /><Reference URI=""><Transforms><Transform Algorithm="http://www.w3.org/2000/09/xmldsig#enveloped-signature" /><Transform Algorithm="http://www.w3.org/2001/10/xml-exc-c14n#" /></Transforms><DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha1" /><DigestValue>34Kc+TqLBFPWXZ+dt9jr0TRYkU8=</DigestValue></Reference></SignedInfo><SignatureValue>fWx9TGxEx9RowwpmbtU9C8XDAsZ96RwRdcOQxQH64/S2C/runeB6bq1WTJTChEl9YNlI+i9M/bszKMOOojgiHF8it/KjH+SA1v9YlY6El2/aDrd1J4sZWvPSmypJFoNOm3J58FEH7MLzJlwwZWdI/l+YNMw7KQjDL6L50DYlG5Y=</SignatureValue><KeyInfo><KeyValue><RSAKeyValue><Modulus>vE9y3kOSR6ddCSc7aR7fkoUGinbWRHWQlIG8b4a8hXlL8E/Sj4ITHd364VXcrYrXHWIHlHY5JB2FI1MvgtQ4Qo64o04kiDXafO4a1DGmiKo9fEkZbIPBMq0vh/w9/KOZp/UXJTlwcgjxhJNTBk/iMOeS9pdtVYW+Sj/u2DWDwHM=</Modulus><Exponent>AQAB</Exponent></RSAKeyValue></KeyValue><X509Data><X509Certificate>MIIB6TCCAVagAwIBAgIQsjhF6PkTKJlBADGMFSeaHzAJBgUrDgMCHQUAMDcxNTAzBgNVBAMeLABKAC0ATQBJAFkAQQBHAEkALQBUAEgAXABoADIAMABfAHMAYQBzAGEAawBpMB4XDTEwMDEwOTAzNDc1OVoXDTExMDEwOTA5NDc1OVowNzE1MDMGA1UEAx4sAEoALQBNAEkAWQBBAEcASQAtAFQASABcAGgAMgAwAF8AcwBhAHMAYQBrAGkwgZ8wDQYJKoZIhvcNAQEBBQADgY0AMIGJAoGBALxPct5DkkenXQknO2ke35KFBop21kR1kJSBvG+GvIV5S/BP0o+CEx3d+uFV3K2K1x1iB5R2OSQdhSNTL4LUOEKOuKNOJIg12nzuGtQxpoiqPXxJGWyDwTKtL4f8Pfyjmaf1FyU5cHII8YSTUwZP4jDnkvaXbVWFvko/7tg1g8BzAgMBAAEwCQYFKw4DAh0FAAOBgQAonQmtOkLadbp1yIG59CEZF3iED4StcriZeNIBW8npbG7boB56reX0F7l2c6YoVXzHJGDMUSvYkn9aPlmr2xmuBJTwve1QPZziBLBTlwQEhMDDkv3VvE+qiJ3XWIZf7tUsraKJNBBC0mWaUwsO3JobDcr0f0cF/pgO1b+3rEcIig==</X509Certificate></X509Data></KeyInfo></Signature></r:issuer></r:license></msrel:RelData></KeyInfo></Signature></asmv1:assembly>

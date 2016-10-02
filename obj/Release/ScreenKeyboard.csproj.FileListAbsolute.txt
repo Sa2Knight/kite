@@ -1,0 +1,685 @@
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ScreenKeyboard.browser.resources
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\信吾\Local Settings\Application Data\Temporary Projects\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\信吾\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ScreenKeyboard\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\ver0.60\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+F:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+F:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+F:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+F:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+F:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\レイアウトかえてる途中\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\SKB最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mdi.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mdi.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mdi.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+F:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.mdi.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\最新+エディター込\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.mdi.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\コピー ～ スクリーンきーぼー\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.editdata.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+G:\スクリーンキーボード\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\saisinn\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+G:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\ver1.04\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\ver1.04 - コピー\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\ver1.10\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.tenkey.resources
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\メソッドつくり\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+F:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\編集中\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.input.resources
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Users\Shingo\Desktop\最新a\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\new\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新　変更中\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+E:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+E:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+E:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+F:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+F:\ここから再開\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+F:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+F:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+F:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+F:\ここから再開\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+F:\ここから再開\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ネオ\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.78\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.80\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.85\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.86\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.88\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+E:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+E:\スクリーンキーボード\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\h20_sasaki\デスクトップ\ver1.96\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\user\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.config
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.exe
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\bin\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\bin\Release\ScreenKeyboard.application
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\bin\Release\ScreenKeyboard.exe
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\bin\Release\ScreenKeyboard.pdb
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ResolveAssemblyReference.cache
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.key.resources
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.Properties.Resources.resources
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.csproj.GenerateResource.Cache
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.exe.manifest
+C:\Documents and Settings\user\デスクトップ\ver2.15\ScreenKeyboard\obj\Release\ScreenKeyboard.application
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.Form1.resources
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.BOSS.resources
+C:\Documents and Settings\soft\デスクトップ\最新\ScreenKeyboard\obj\Release\ScreenKeyboard.mainedit.resources

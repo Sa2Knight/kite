@@ -1,0 +1,155 @@
+﻿ver0.58 テンキーもサイズに合わせてフォント変更　01/12
+ver0.57 自動サイズ設定中にフォント変えでエラー  01/12
+ver0.56 フォームサイズに合わせてフォント変える　01/12
+ver0.55 全てデフォルトに戻すで全ての設定初期化  01/12
+ver0.54 クリックで入力オンオフが働いてなかった  01/12
+ver0.53 フォーム外マウスのラベル光るの修正		01/12
+ver0.52 フォームを最大化したときのバグ修正		01/09	
+ver0.51 連続入力に関するバグ修正				01/09
+ver0.50 前回終了時の位置を再現する				01/09	   バックアップとしてver0.50を残す
+ver0.49 前回終了時のサイズを再現する			01/09
+ver0.48 ラベルオンマウスでバックカラー変わる	01/09
+ver0.47 ラベル文字サイズ７２まで許可			01/09
+ver0.46 ラベル２段目の場所がバグるの修正		01/09
+ver0.45 ラベルのサイズチェンジを大幅修正		01/08
+ver0.44 結合に関するバグ修正					01/06
+ver0.43 ボタンクリックによるバグ修正			01/06
+ver0.42 親フォームのレイアウトをテンキーでも	01/06
+ver0.41 フォーム外ポインタのバグ修正			01/06
+ver0.40 テンキーも一定時間オンマウスで入力		01/06	   バックアップとしてver0.40を残す
+ver0.39 結合機能とか							12/30
+ver0.38 本体からテンキー呼び出せれぅ～			12/30
+ver0.37 テンキーからクリックで入力できれぅ～	12/30
+ver0.36 テンキーのフォームサイズチェンジでｒｙ	12/30
+ver0.35 メッセージボックスが現れるバグ修正		12/30
+ver0.34 テンキーのレイアウト完成。未実装		12/30
+ver0.33 縦に広げた時の位置調整修正				12/26
+ver0.32 横に広げるとラベルサイズも広がる		12/18
+ver0.31 メニューバーに「アクティブ化」追加		12/18	   
+ver0.30 横に広げるとラベルの間隔も広がる		12/17	   バックアップとしてver0.30を残す
+ver0.29 ^ ~がどうにもならないから廃止			12/16
+ver0.28 記号のバグ解消							12/16
+ver0.27 全体的にコンパクトに					12/07
+ver0.26 サウンドのオンオフ設定可				12/05
+ver0.25 オンマウス入力の際サウンド発生			12/04
+ver0.24 背景色変更可能に。						12/03
+ver0.23 文字色変更可能に。デフォに戻す機能も	12/03
+ver0.22 文字フォントをデフォに戻す機能追加　　　12/03
+ver0.21 文字フォントの変更機能追加				12/03
+ver0.20 入力設定フォーム完成					12/03	   バックアップとしてver0.20を残す
+ver0.19 常に非アクティブ状態に成功				12/03
+ver0.18 実行時の位置を画面下に固定				12/02
+ver0.17 全てのアプリケーションで入力可能		12/02
+ver0.16 クリックで入力をやや安定化				12/01
+ver0.15「無題 - メモ帳」でならクリックでできる  12/01
+ver0.14 矢印キー追加							11/30
+ver0.13 入力設定フォーム改善					11/30
+ver0.12 入力設定フォーム一部修正				11/29
+ver0.11 入力設定フォームできた。まだ動かない　	11/29
+ver0.10 「っ」「ゎ」がなかったので追加			11/29    　バックアップとしてver0.10を残す
+ver0.09 プログレスバーのテスト					11/29
+ver0.08 一部レイアウトの変更					11/29
+ver0.07 一定時間オンマウスで入力に				11/29
+ver0.06 バックスペースや変換を追加				11/28
+ver0.05 漢字変換とかできるよう一部改善 1		11/27
+ver0.04 かな、アルファベットとかモード切替可能  11/26
+ver0.03 記号も打てる							11/26
+ver0.02 ひらがな、アルファベット、数字が打てる  11/25
+ver0.01 文字をオンマウスで打てる				11/24  
+
+
+問題点 01/12時点
+・ウィンドウに合わせて文字サイズ変える仕様がいいなぁ
+・スクリーンキーボードとテンキーの互換性が最悪
+・ラベルのサイズチェンジが二度手間
+・メニューバーもオンマウスで選択可能にしたいなぁ
+・英大文字→英小文字に変える際シフトキー押すだけでも充分かな　
+・非アクティブ処理のせいでメニューが不安定
+
+
+
+
+		//一番使えそう
+			using System.Text ;                     // for StringBuilder
+
+			[DllImport("user32.dll")]
+			extern static IntPtr GetWindow(IntPtr hWnd, uint uCmd) ;
+
+			[DllImport("user32.dll")]
+			extern static IntPtr GetForegroundWindow() ;
+
+			[DllImport("user32.dll")]
+			extern static int GetWindowText(IntPtr hWnd, StringBuilder lpStr, int nMaxCount) ;
+
+			[DllImport("user32.dll")]
+			extern static bool IsWindowVisible(IntPtr hWnd) ;
+
+			[DllImport("user32.dll")]
+			extern static bool SetForegroundWindow(IntPtr hWnd) ;
+
+		
+		    const int GW_HWNDNEXT = 2;
+            StringBuilder sb = new StringBuilder(100);
+            IntPtr hwnd = GetForegroundWindow();      // 最前面ウィンドウの hwnd を取得
+            while (hwnd != IntPtr.Zero)
+            {
+                if (IsWindowVisible(hwnd))
+                {
+                    GetWindowText(hwnd, sb, sb.Capacity);  // タイトルバー文字列を取得
+                    if (sb.ToString().IndexOf(textBox1.Text) != -1)
+                    {
+                        // 見つかった
+                        SetForegroundWindow(hwnd);    // アクティブにする
+                        break;
+                    }
+                }
+                hwnd = GetWindow(hwnd, GW_HWNDNEXT);  // Zオーダーが1つ下の hwnd を取得
+            }
+
+
+
+		//フォームクリックでもアクティブにならない①
+
+        const int WM = 0x0021;
+        const int WA = 3;
+        protected override void WndProc(ref Message m)
+        {
+            switch (m.Msg)
+            {
+                case WM:
+                    m.Result = (IntPtr)WA;
+                    return;
+            }
+            Console.WriteLine(m.Msg);
+            base.WndProc(ref m);
+        }
+        
+        //よくわからないナニカ
+        
+        [DllImport("user32.dll")]
+        extern static int GetWindowThreadProcessId(IntPtr hWnd, int ProcessId);
+        [DllImport("user32.dll")]
+        extern static IntPtr GetForegroundWindow();
+        [DllImport("user32.dll")]
+        extern static bool AttachThreadInput(int idAttach, int idAttachTo, bool fAttach);
+        [DllImport("user32.dll")]
+        extern static bool SetForegroundWindow(IntPtr hWnd);
+        private void timer2_Tick(object sender, EventArgs e)
+        {
+            int ThreadProcessId = GetWindowThreadProcessId(this.Handle, 0);
+            IntPtr OldWindowHandle = IntPtr.Zero;
+            IntPtr targetWindowHandle = GetForegroundWindow();
+            if (targetWindowHandle == this.Handle && OldWindowHandle != IntPtr.Zero)
+            {
+                SetForegroundWindow(OldWindowHandle);
+            }
+            else
+            {
+                if (targetWindowHandle != OldWindowHandle)
+                {
+                    int targetThreadProcessId = GetWindowThreadProcessId(targetWindowHandle, 0);
+                    AttachThreadInput(ThreadProcessId, targetThreadProcessId, true);
+                    OldWindowHandle = targetWindowHandle;
+                }
+            }
+        }
